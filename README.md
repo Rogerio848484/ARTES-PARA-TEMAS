@@ -30,8 +30,7 @@
 ![](https://i.ibb.co/DWkKKJT/arcade.png)
 ![](https://i.ibb.co/fQ55kGv/atari2600.png)
 
-### ARTES
-
+### PERSONAGENS
 ![](https://i.ibb.co/hyMW11Y/64dd.png)
 ![](https://i.ibb.co/vHfDN2q/atomiswave.png)
 ![](https://i.ibb.co/zf8WB33/castlevania.png)
