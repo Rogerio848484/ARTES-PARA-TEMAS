@@ -17,3 +17,14 @@
 
 ![](https://i.ibb.co/CtTqMTG/auto-at4players.png)
 ![](https://i.ibb.co/gJ5m3BS/3do.png)
+
+### CONTROLES
+
+![](https://i.ibb.co/BC49f4M/atari.png)
+![](https://i.ibb.co/bXg1ZJc/auto-favorites.png)
+![](https://i.ibb.co/WHXMttj/atari2600.png)
+
+### CONSOLES
+
+![](https://i.ibb.co/DWkKKJT/arcade.png)
+![](https://i.ibb.co/fQ55kGv/atari2600.png)
