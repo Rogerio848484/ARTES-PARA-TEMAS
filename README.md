@@ -29,3 +29,14 @@
 
 ![](https://i.ibb.co/DWkKKJT/arcade.png)
 ![](https://i.ibb.co/fQ55kGv/atari2600.png)
+
+### ARTES
+
+![](https://i.ibb.co/hyMW11Y/64dd.png)
+![](https://i.ibb.co/vHfDN2q/atomiswave.png)
+![](https://i.ibb.co/zf8WB33/castlevania.png)
+![](https://i.ibb.co/T8dxBxF/gc.png)
+![](https://i.ibb.co/JktN0Rn/genesis.png)
+![](https://i.ibb.co/R20cX69/megaman.png)
+
+
